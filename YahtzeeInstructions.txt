@@ -1,0 +1,18 @@
+                                          Yahtzee Instructions
+  This is a simulation yahztee game designed to be played as an entire game
+1. To start the game press the play button
+2. Once you click the button you will be prompted to enter the players names
+     Please no more than 5 characters
+     Only press enter after the second name has been filled in
+3. The two players will then be instructed to roll a dice to determine who will go first
+     The outcomes of the rolls will be printed out to the interactions pane
+4. Whichever player rolled a higher number will start the gme by rolling the dice in the yahtzee frame
+     Again to see the results of the roll, you must use the interactions pane
+5. A list of all of the possible scores will be listed in the interactions pane
+    the format is:
+      combination: possible score
+6. In the interactions pane enter the number corresponding to the combination you would like to use
+     a table with your new scores will be displayed in the interactions pane.
+7. the next player will be asked to return to the yahztee frame to roll the dice for their turn.
+     at this point repeat steps 5 - 7 until both players have filled thier board with scores
+8. when both players have filled their score tables the winner will be announced
